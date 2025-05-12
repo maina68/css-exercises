@@ -1,0 +1,22 @@
+.firstoddclass, .secondoddclass {
+    background-color: pink;
+    color: black;
+    font-family: 'Verdana', sans-serif;
+    font-size: 18px;
+}
+#firstid{
+    color: blue;
+    font-size: 36px;
+}
+.evenclass{
+    background-color: pink;
+    color: black;
+    font-family: 'Verdana', sans-serif;
+    font-size: 24px;
+}
+#secondid{
+    background-color: rgb(131, 243, 131);
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+}
