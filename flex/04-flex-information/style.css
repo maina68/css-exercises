@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  justify-content: center;
 }
 
 img {
@@ -10,6 +11,20 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  justify-content: center;
+  margin-bottom: 32px;
+  text-align: center;
+}
+.container{
+  display:flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.item{
+  width: 200px;
+  text-align: center;
+  word-wrap: break-word;  /* Ensures long words break to the next line */
 }
 
 /* do not edit this footer */
